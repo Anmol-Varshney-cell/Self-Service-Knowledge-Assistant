@@ -1,0 +1,5 @@
+{
+  "name": "Self Service Knowledge Assistant ",
+  "description": "A RAG-powered HR assistant that helps employees query company policies with citations and automated categorization.",
+  "requestFramePermissions": []
+}
